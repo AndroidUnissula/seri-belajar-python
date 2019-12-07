@@ -1,0 +1,13 @@
+Python adalah interprated language
+Python sebenarnya basicnya adalah C programing
+C adalah compiler language
+Python di buat oleh guido van gossum
+
+Apa alasan kita belajar python?
+- Python masuk pada popular language pada tahun 2016
+- Python lebih mudah di pelajari karena merupakan bahasa pemrograman tingkat tinggi
+- Python memiliki struktur yang sangat mirip dengan matlab
+- Python + framework = matlab killer
+- djanggo adalah web framework untuk python
+- Banyak di gunakan perusahaan2 besar
+
